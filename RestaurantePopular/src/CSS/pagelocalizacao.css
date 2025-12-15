@@ -1,0 +1,27 @@
+.page-localizacao-style {
+  padding: 100px;
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+  border-radius: 10px;
+  background-color: #fee0de;
+}
+.page-localizacao-style h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: black;
+}
+.page-localizacao-style iframe {
+  margin-top: 20px;
+  border: 4px solid #cc1212;
+  border-radius: 10px;
+}
+.page-localizacao-style p {
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+.page-localizacao-style .p2 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #cc1212;
+}
