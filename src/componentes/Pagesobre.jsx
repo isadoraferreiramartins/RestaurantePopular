@@ -1,4 +1,4 @@
-import "../CSS/pagesobre.css";
+import "../CSS/Pagesobre.css";
 
 function Pagesobre() {
   return (

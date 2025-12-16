@@ -1,4 +1,4 @@
-import "../CSS/pageinicio.css";
+import "../CSS/Pageinicio.css";
 
 function Pageinicio() {
   return (

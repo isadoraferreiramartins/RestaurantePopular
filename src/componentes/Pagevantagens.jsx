@@ -1,4 +1,4 @@
-import "../CSS/pagevantagens.css";
+import "../CSS/Pagevantagens.css";
 
 function Pagevantagens() {
   return (

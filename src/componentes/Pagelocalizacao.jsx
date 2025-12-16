@@ -1,4 +1,4 @@
-import "../CSS/pagelocalizacao.css";
+import "../CSS/Pagelocalizacao.css";
 
 function Pagelocalizacao() {
   return (
