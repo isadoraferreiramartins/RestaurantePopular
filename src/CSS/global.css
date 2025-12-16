@@ -1,0 +1,27 @@
+hr {
+  border: none;
+  border-top: 4px solid #cc1212;
+  width: 800px;
+  margin: 20px auto;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+button {
+  background-color: #cc1212;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.card button:hover {
+  background: #b31414;
+}
+h1 {
+  text-align: center;
+}

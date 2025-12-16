@@ -1,0 +1,38 @@
+.header-container {
+  background-color: #cc1212;
+  padding: 10px 20px;
+  text-align: center;
+  gap: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Barra de navegação */
+.navbar {
+  background-color: rgb(20, 20, 20);
+  padding: 15px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Logo */
+.logo {
+  color: rgb(20, 20, 20);
+  font-size: 20px;
+  font-weight: bold;
+
+  gap: 10px;
+}
+
+/* Menu */
+.menu a {
+  color: rgb(20, 20, 20);
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 15px;
+  transition: 0.3s;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}

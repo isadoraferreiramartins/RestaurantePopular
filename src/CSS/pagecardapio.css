@@ -1,0 +1,62 @@
+.cardapio {
+  padding: 40px;
+  text-align: center;
+}
+
+.cardapio h2 {
+  margin-bottom: 30px;
+  color: #000000;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 50px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  background-color: #cfead3;
+  padding: 100px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-body h3 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.card-body p {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 12px;
+}
+
+.preco {
+  display: block;
+  font-weight: bold;
+  color: #2f6b3c;
+  margin-bottom: 15px;
+}
+
+button:hover {
+  background-color: #a10e0e;
+}
+.img-cardapio {
+  width: 400px;
+  height: 200px;
+  object-fit: cover;
+}

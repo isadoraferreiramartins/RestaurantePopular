@@ -1,0 +1,13 @@
+.footer-style {
+  background-color: #af1919;
+  color: rgb(20, 20, 20);
+  text-align: center;
+  padding: 20px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+h2.footer-style h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
