@@ -10,12 +10,8 @@ function Pagecontato() {
       <hr />
 
       <form className="contact-form">
-        <input type="text" placeholder="Seu Nome:" className="contact-input" />
-        <input
-          type="email"
-          placeholder="Seu Email:"
-          className="contact-input"
-        />
+        <input type="text" placeholder="Nome:" className="contact-input" />
+        <input type="email" placeholder="Email:" className="contact-input" />
         <button type="submit" className="contact-button">
           Enviar
         </button>
