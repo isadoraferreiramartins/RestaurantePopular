@@ -1,4 +1,4 @@
-import "./CSS/Pagecardapio.css";
+import "../CSS/Pagecardapio.css";
 
 function Pagecardapio() {
   return (
