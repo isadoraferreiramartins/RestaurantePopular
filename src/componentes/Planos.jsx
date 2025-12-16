@@ -1,4 +1,4 @@
-import "../CSS/Planos.css";
+import "./CSS/Planos.css";
 
 function Planos() {
   return (
