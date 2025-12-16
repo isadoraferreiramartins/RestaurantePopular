@@ -1,4 +1,4 @@
-import "./CSS/global.css";
+import "../CSS/global.css";
 import "./App.jsx";
 import Header from "./componentes/header.jsx";
 import Pageinicio from "./componentes/Pageinicio.jsx";
