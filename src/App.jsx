@@ -1,6 +1,6 @@
 import "./CSS/global.css";
 import "./App.jsx";
-import Header from "./componentes/Header.jsx";
+import Header from "./componentes/header.jsx";
 import Pageinicio from "./componentes/Pageinicio.jsx";
 import Pagevantagens from "./componentes/Pagevantagens.jsx";
 import Pagecardapio from "./componentes/Pagecardapio.jsx";
